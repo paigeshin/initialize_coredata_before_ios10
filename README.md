@@ -1,0 +1,1 @@
+# initialize_coredata_before_ios10
